@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "mla-cdif",
+    "slug": "mla-cdif",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/signin/cdip-bg-logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/signin/cdip-bg-logo.png",
+      "resizeMode": "center",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/signin/cdip-bg-logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
